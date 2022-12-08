@@ -9,7 +9,7 @@ The software currently just runs basic insert, query, modify, and delete command
 
 I wrote this software to learn about SQLite3 and how it functions within Python. I know SQL fairly well but writing it out to possibly abstract the SQL language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/SpbReHrz6qs))
 
 # Relational Database
 
